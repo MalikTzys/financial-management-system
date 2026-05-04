@@ -1,0 +1,2 @@
+[03-May-2026 21:31:05 Asia/Jakarta] PHP Warning:  file_put_contents(C:\xampp\htdocs\fnc\config/../user/data/ArataLexa/activity.log): Failed to open stream: No such file or directory in C:\xampp\htdocs\fnc\config\config.php on line 169
+[03-May-2026 21:31:18 Asia/Jakarta] Email failed: SMTP Error: Could not authenticate.
